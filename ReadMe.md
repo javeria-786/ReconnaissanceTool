@@ -1,6 +1,11 @@
 # 🕵️ Reconnaissance Tool
 
-A lightweight, modular CLI-based recon tool developed for the **Offensive Summer Internship Task**. It automates passive and active reconnaissance tasks useful for red team operations and penetration testing.
+A lightweight, modular CLI-based recon tool named Trace Info  developed for the **Offensive Summer Internship Task**. It automates passive and active reconnaissance tasks useful for red team operations and penetration testing.
+## 🖥️ CLI Interface 
+
+Here is what the tool looks like when run from the terminal:
+
+![CLI Output](screenshots/traceinfo.png)
 
 ---
 
@@ -21,21 +26,10 @@ A lightweight, modular CLI-based recon tool developed for the **Offensive Summer
 - Timestamps and resolved IP info
 
 ---
-Project Structure 
-reconnaissancetool/
-├── main.py
-├── modules/
-│   ├── whois_lookup.py
-│   ├── dns_enum.py
-│   ├── subdomain_enum.py
-│   ├── port_scan.py
-│   ├── banner_grab.py
-│   └── tech_detect.py
-├── reports/
-├── requirements.txt
-├── Dockerfile
-├── README.md
-└── .gitignore
+
+## 📁 Project Structure
+
+![Project Structure](screenshots/project strcuture.png)
 
 
 ## ⚙️ Installation
