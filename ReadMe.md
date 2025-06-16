@@ -29,7 +29,7 @@ Here is what the tool looks like when run from the terminal:
 
 ## 📁 Project Structure
 
-![Project Structure](screenshots/project strcuture.png)
+![Project Structure](screenshots/projectstrcuture.png)
 
 
 ## ⚙️ Installation
